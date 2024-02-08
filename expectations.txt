@@ -8,3 +8,5 @@ a better programmer, as well as learn more "trivial"
 information regarding computer science as a discipline.
 Furthermore, I'm looking forward to learning how to program
 better in HTML, CSS, and JavaScript.
+
+Autriz, Mark Neil Comment : I agree that your expectations in this course will adhere to the knowledge and understanding that this course offers considering that it will allow to foster your information in web programming.
